@@ -1,0 +1,1 @@
+enum Genre {adventure , mystery , fantasy , romance , children , horror , history , biographies}
